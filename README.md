@@ -1,0 +1,1 @@
+Download mod and open FrostyModManager, (if you have never opened up FrostyModManager) Click scan games then select Gw2. Add this mod file and then click apply mods, Check the box on the right of your screen then click launch.
